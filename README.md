@@ -1,9 +1,17 @@
-### Hi there 👋, my name is Sergiy
+### Hi there, I'm Sergiy👋
 I'm a technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
 
-Skills: PowerShell / Terraform / Azure IaaS and PaaS Services
+## Skills: 
+PowerShell / Terraform / Azure IaaS and PaaS Services
 
+## You can contact me
 
+[<img align="left" alt="www.the38.page" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sccmgeek | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+## Support
+If you would like to support me, consider buying me a coffee 😊 <br>
+<a href="https://www.buymeacoffee.com/sergiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="22" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stsyg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sccmgeek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.the38.page)  
 
@@ -17,6 +25,4 @@ Skills: PowerShell / Terraform / Azure IaaS and PaaS Services
 
 ![Profile views](https://gpvc.arturio.dev/stsyg)  
 
-## Support
-If you would like to support me, consider buying me a coffee 😊 <br>
-<a href="https://www.buymeacoffee.com/sergiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
