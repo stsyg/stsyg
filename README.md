@@ -1,6 +1,4 @@
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-## Hi there, I'm Sergiy👋
+## <img align="left" alt="www.the38.page" width="22" src="https://static.wikia.nocookie.net/logopedia/images/7/7f/GitHub_logo_%28Ukraine%29.svg"> Hi there, I'm Sergiy👋
 I'm a technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
 
 ### Skills: 
@@ -16,6 +14,8 @@ If you would like to support me, consider buying me a coffee 😊 <br>
 [<img align="left" alt="sccmgeek | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
 
 ![Profile views](https://gpvc.arturio.dev/stsyg)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 
 &nbsp;
 &nbsp;
