@@ -25,4 +25,5 @@ If you would like to support me, consider buying me a coffee 😊 <br>
 
 ![Profile views](https://gpvc.arturio.dev/stsyg)  
 
-
+[website]: https://www.the38.page
+[twitter]: https://twitter.com/sccmgeek
