@@ -16,3 +16,7 @@ Skills: PowerShell / Terraform / Azure IaaS and PaaS Services
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stsyg)  
 
 ![Profile views](https://gpvc.arturio.dev/stsyg)  
+
+## Support
+If you would like to support me, consider buying me a coffee 😊 <br>
+<a href="https://www.buymeacoffee.com/sergiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
