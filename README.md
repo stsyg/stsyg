@@ -1,4 +1,4 @@
-## <img align="left" alt="www.the38.page" width="22" src="https://static.wikia.nocookie.net/logopedia/images/7/7f/GitHub_logo_%28Ukraine%29.svg"> Hi there, I'm Sergiy👋
+## Hi there, I'm Sergiy👋
 I'm a technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
 
 ### Skills: 
@@ -19,7 +19,7 @@ If you would like to support me, consider buying me a coffee 😊 <br>
 
 &nbsp;
 &nbsp;
-### Github stats
+### <img align="center" alt="www.the38.page" width="22" src="https://static.wikia.nocookie.net/logopedia/images/7/7f/GitHub_logo_%28Ukraine%29.svg"> Github stats
 
 <details> 
   <summary>GitHub Profile Stats</summary>
