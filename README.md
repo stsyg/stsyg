@@ -11,7 +11,7 @@ PowerShell / Terraform / Azure IaaS and PaaS Services
 
 ## Support
 If you would like to support me, consider buying me a coffee 😊 <br>
-<a href="https://www.buymeacoffee.com/sergiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.buymeacoffee.com/sergiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="125" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stsyg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sccmgeek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.the38.page)  
 
