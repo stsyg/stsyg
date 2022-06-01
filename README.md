@@ -1,8 +1,10 @@
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 ## Hi there, I'm Sergiy👋
 I'm a technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
 
 ### Skills: 
-PowerShell / Terraform / Azure IaaS and PaaS Services
+PowerShell / Terraform / Kubernetes
 
 ### Support
 If you would like to support me, consider buying me a coffee 😊 <br>
@@ -14,20 +16,25 @@ If you would like to support me, consider buying me a coffee 😊 <br>
 [<img align="left" alt="sccmgeek | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br/>
 
 ![Profile views](https://gpvc.arturio.dev/stsyg)
+
+&nbsp;
+&nbsp;
+### Github stats
+
+<details> 
+  <summary>GitHub Profile Stats</summary>
+  <br/>
  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sergiy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stsyg&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sergiy's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=stsyg&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+   <br/>
+</details>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stsyg)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stsyg&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stsyg)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stsyg)  
-
+<details>
+  <summary>Activity Graph</summary>
+  <br/>
  
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sergiy's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=stsyg&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
 
 [website]: https://www.the38.page
 [twitter]: https://twitter.com/sccmgeek
