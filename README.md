@@ -1,8 +1,14 @@
-## Hi there, I'm Sergiy👋
-I'm a technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
+## Hi there👋
+
+I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
 
 ### Skills: 
-PowerShell / Terraform / Kubernetes
+[<img align="left" alt="Terraform" width="125" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />][terraform]
+[<img align="left" alt="PowerShell" width="125" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />][powershell]
+[<img align="left" alt="Docker" width="95" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />][docker]
+[<img align="left" alt="Azure DevOps" width="140" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />][azuredevops]
+[<img align="left" alt="Jenkins" width="100" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />][jenkins]
+<br/>
 
 ### Support
 If you would like to support me, consider buying me a coffee 😊 <br>
@@ -38,3 +44,8 @@ If you would like to support me, consider buying me a coffee 😊 <br>
 
 [website]: https://www.the38.page
 [twitter]: https://twitter.com/sccmgeek
+[terraform]: https://www.terraform.io
+[azuredevops]: https://dev.azure.com
+[jenkins]: https://www.jenkins.io
+[powershell]: https://docs.microsoft.com/en-us/powershell
+[docker]: https://www.docker.com
