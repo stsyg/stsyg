@@ -8,7 +8,7 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
 <strong>Cloud Providers</strong> <p>
 
   <a href="https://portal.azure.com" target="_blank">
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
   </a>
 
   <a href="https://portal.azure.com" target="_blank">
