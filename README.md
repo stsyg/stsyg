@@ -5,27 +5,55 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
 ### Skills: 
 
 <p align="left">
-<img src="https://cdn-icons.flaticon.com/png/512/3211/premium/3211343.png?token=exp=1654125580~hmac=4077236c94fa0f49f68f8bf8ab8e9b0b" height="25px"/> Cloud Providers
+<strong>Cloud Providers</strong> <p>
 
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+  <a href="https://portal.azure.com" target="_blank">
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+
+  <a href="https://portal.azure.com" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
 </p>
 
 <p align="left">
-<img src="https://cdn-icons.flaticon.com/png/512/2581/premium/2581840.png?token=exp=1654125756~hmac=cdd020736f8c234e91534aa49034699a" height="25px"> CI/CD
+<strong>CI/CD</strong> <p>
 
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <a href="https://dev.azure.com" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> 
+  </a>
+  
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  </a>
 </p>
 
 <p align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/2897/2897728.png" height="25px"/> Containers / Orchestration
+<strong>Containers / Orchestration</strong> <p>
 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
 </p>
 
 <p align="left">
-<img src="https://cdn-icons.flaticon.com/png/512/6062/premium/6062646.png?token=exp=1654125860~hmac=779b389ae9e3d9d9baf0539cb4a8628e" height="25px"/> Infrastructure Provisioning
+<strong>Infrastructure Provisioning</strong> <p>
 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> 
+   <a href="https://www.terraform.io" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  </a>
 </p>
 
 ### Support
