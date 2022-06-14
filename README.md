@@ -11,8 +11,8 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
   </a>
 
-  <a href="https://portal.azure.com" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS">
   </a>
 </p>
 
@@ -20,15 +20,15 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
 <strong>CI/CD</strong> <p>
 
   <a href="https://dev.azure.com" target="_blank">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
   </a>
   
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> 
   </a>
   
   <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
   </a>
 </p>
 
@@ -36,11 +36,11 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
 <strong>Containers / Orchestration</strong> <p>
 
   <a href="https://www.docker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
   
   <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   </a>
 </p>
 
@@ -48,11 +48,11 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
 <strong>Infrastructure Provisioning</strong> <p>
 
    <a href="https://www.terraform.io" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   </a>
   
   <a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Microsoft PowerShell">
   </a>
 </p>
 
