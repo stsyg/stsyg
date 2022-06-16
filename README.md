@@ -51,11 +51,12 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   </a>
   
-  <a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Microsoft PowerShell">
-  </a>
   <a href="https://www.packer.io" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=" alt="Packer">
+  </a>
+
+  <a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
+    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Microsoft PowerShell">
   </a>
 </p>
 
