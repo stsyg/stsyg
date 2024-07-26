@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services.
+I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization projects, helping clients migrate their workloads to Azure IaaS and PaaS services. You can find my resume on my blog at <a href="[https://www.jenkins.io](https://resume.the38.page/)(https://resume.the38.page/)" target="_blank"></a>.
 
 ### Skills: 
 
