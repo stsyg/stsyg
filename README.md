@@ -89,7 +89,7 @@ If you would like to support me, consider buying me a coffee 😊 <br>
   <summary>Activity Graph</summary>
   <br/>
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sergiy's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=stsyg&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sergiy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=stsyg&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
 [website]: https://www.the38.page
