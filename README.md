@@ -50,6 +50,10 @@ I'm Sergiy, technology enthusiast, focusing on IaC and Cloud Modernization proje
    <a href="https://www.terraform.io" target="_blank">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   </a>
+
+  <a href="https://www.ansible.com" target="_blank">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  </a>
   
   <a href="https://www.packer.io" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Packer&color=02A8EF&logo=Packer&logoColor=FFFFFF&label=" alt="Packer">
